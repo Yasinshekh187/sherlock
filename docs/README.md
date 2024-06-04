@@ -24,7 +24,8 @@
 
 ## Installation
 
-[![PyPI - Version](https://img.shields.io/pypi/v/sherlock-project?logo=PyPi&label=PyPI&color=darkgreen)][ext_pypi] [![Docker Image Version](https://img.shields.io/docker/v/sherlock/sherlock?sort=semver&logo=docker&label=Docker&color=darkgreen)][docs_docker] [![homebrew version](https://img.shields.io/homebrew/v/sherlock?logo=Homebrew&color=darkgreen)][ext_brew]
+[![PyPI - Version](https://img.shields.io/pypi/v/sherlock-project?logo=PyPi&label=PyPI&color=darkgreen)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYasinshekh187%2Fsherlock.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYasinshekh187%2Fsherlock?ref=badge_shield)
+[ext_pypi] [![Docker Image Version](https://img.shields.io/docker/v/sherlock/sherlock?sort=semver&logo=docker&label=Docker&color=darkgreen)][docs_docker] [![homebrew version](https://img.shields.io/homebrew/v/sherlock?logo=Homebrew&color=darkgreen)][ext_brew]
 
 
 | Method | Command | Notes |
@@ -145,3 +146,6 @@ Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
 [ext_pypi]: https://pypi.org/project/sherlock-project/
 [ext_brew]: https://formulae.brew.sh/formula/sherlock
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYasinshekh187%2Fsherlock.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYasinshekh187%2Fsherlock?ref=badge_large)
